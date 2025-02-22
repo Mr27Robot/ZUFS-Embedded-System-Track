@@ -30,4 +30,10 @@ Essential Commands
   o	git reset --hard <commit>: Reset the repository to a specific commit, discarding all changes     after that commit.
   o	git revert <commit>: Create a new commit that undoes the changes of a previous commit.
 
- 
+Key Concepts
+
+Repository (Repo): A storage space where your project’s files and their revision history are kept.
+Commit: A snapshot of changes made to the files in the repository.
+Branch: A parallel version of the repository that diverges from the main working project.
+Merge: Combining changes from different branches.
+Pull Request: A method for submitting contributions to a project.
